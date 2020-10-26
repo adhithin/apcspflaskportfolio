@@ -1,6 +1,9 @@
+**Welcome to our AP CSP Flask Portfolio 
+
+This is a readme file, and will tell you what we're doing, as well as how to use our code. 
 
 
-How to use
+**How to use
 
 https://our-python-web-portfolio.zachajoseph.repl.co/
 
